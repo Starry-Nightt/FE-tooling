@@ -8,9 +8,9 @@ function App() {
   const [count, setCount] = useState(0);
 
   var x = count + 1;
-
-  console.log("first")
-  console.log('second')
+  const a = 2;
+  console.log("first");
+        console.log("second")
   return (
     <>
       <div>
