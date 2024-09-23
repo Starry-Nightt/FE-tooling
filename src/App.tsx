@@ -9,8 +9,8 @@ function App() {
 
   var x = count + 1;
   const a = 2;
-  console.log("first");
-        console.log("second")
+               console.log("first");
+           console.log("second")
   return (
     <>
       <div>
