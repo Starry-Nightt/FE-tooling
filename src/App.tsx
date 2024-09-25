@@ -7,7 +7,7 @@ import SuccessText from "./components/SuccessText";
 function App() {
   const [count, setCount] = useState(0);
 
-  const x = count + 1;
+  const x = count + 2;
 
   return (
     <>
