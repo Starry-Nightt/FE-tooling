@@ -7,10 +7,8 @@ import SuccessText from "./components/SuccessText";
 function App() {
   const [count, setCount] = useState(0);
 
-  var x = count + 1;
-  const a = 2;
-               console.log("first");
-           console.log("second")
+  const x = count + 1;
+
   return (
     <>
       <div>
